@@ -1,6 +1,6 @@
 # Pomodora Timer 
 
-A physical Pomodora Timer including the PCB and schematic. This project contains a Wokwi simulation. You will have to apply for your own license in order to test it. The PCB is made with EasyEDA and files are under that name.
+A physical Pomodora Timer including the PCB and schematic. This project contains a Wokwi simulation. You will have to apply for your own license in order to test it. The PCB is made with EasyEDA. 
 
 Accepting contributions to make this better.
 
